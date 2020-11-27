@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameConsoleApp", "FrameConsoleApp\FrameConsoleApp.csproj", "{7F922226-B1F4-43C6-BBC6-6349C8D08E6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreConsoleApp", "CoreConsoleApp\CoreConsoleApp.csproj", "{A2FF2B13-92C4-447D-83B1-E89155718527}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreConsoleApp", "CoreConsoleApp\CoreConsoleApp.csproj", "{A2FF2B13-92C4-447D-83B1-E89155718527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronizationContextDemo", "SynchronizationContextDemo\SynchronizationContextDemo.csproj", "{D3A84CDB-184E-4CBE-9640-41EE10CA9773}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A2FF2B13-92C4-447D-83B1-E89155718527}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2FF2B13-92C4-447D-83B1-E89155718527}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2FF2B13-92C4-447D-83B1-E89155718527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A84CDB-184E-4CBE-9640-41EE10CA9773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A84CDB-184E-4CBE-9640-41EE10CA9773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A84CDB-184E-4CBE-9640-41EE10CA9773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A84CDB-184E-4CBE-9640-41EE10CA9773}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

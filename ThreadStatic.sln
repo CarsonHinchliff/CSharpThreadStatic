@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreConsoleApp", "CoreConso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronizationContextDemo", "SynchronizationContextDemo\SynchronizationContextDemo.csproj", "{D3A84CDB-184E-4CBE-9640-41EE10CA9773}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityContextApp", "SecurityContextApp\SecurityContextApp.csproj", "{75C64965-89AD-4A8B-A9B3-7C5986D4FC54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D3A84CDB-184E-4CBE-9640-41EE10CA9773}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3A84CDB-184E-4CBE-9640-41EE10CA9773}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3A84CDB-184E-4CBE-9640-41EE10CA9773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75C64965-89AD-4A8B-A9B3-7C5986D4FC54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C64965-89AD-4A8B-A9B3-7C5986D4FC54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C64965-89AD-4A8B-A9B3-7C5986D4FC54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C64965-89AD-4A8B-A9B3-7C5986D4FC54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
